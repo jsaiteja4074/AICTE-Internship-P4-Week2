@@ -6,9 +6,9 @@ Gain control of your finances with a user-friendly and feature-rich personal fin
 
 # Features:
 ---
---Comprehensive Transaction Management: Create, Read, Update, and Delete (CRUD) transactions effortlessly. Track your income and expenses with ease.
---Cloud-Synchronized Data: Enjoy peace of mind knowing your data is securely stored and synchronized in the cloud. Access your financial information anytime, anywhere.
---Interactive Data Visualization: Explore your financial data in an engaging way using React Spline's 3D capabilities.
+- Comprehensive Transaction Management: Create, Read, Update, and Delete (CRUD) transactions effortlessly. Track your income and expenses with ease.
+- Cloud-Synchronized Data: Enjoy peace of mind knowing your data is securely stored and synchronized in the cloud. Access your financial information anytime, anywhere.
+- Interactive Data Visualization: Explore your financial data in an engaging way using React Spline's 3D capabilities.
 ## Technologies:
 - **Front-End:** React (flexible and performant framework).
 - **Back-End:** Express.js (scalable and efficient API development)
@@ -22,12 +22,10 @@ Gain control of your finances with a user-friendly and feature-rich personal fin
 Node.js and npm (or yarn)
 **Instructions**:
 ---
-1.**Clone the repository**:
+1. **Clone the repository:**
 git clone [https://github.com/jsaiteja4074/AICTE-Internship-P4-Week2.git ]
----
-2.**Install dependencies**:
+2. **Install dependencies:**
 cd Finance-Tracker-web
----
 npm install
-3.**Run the development server**:
+3. **Run the development server:**
 npm start
